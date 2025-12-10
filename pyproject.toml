@@ -9,8 +9,6 @@ build-backend = "setuptools.build_meta"
 
 # To write version to file
 [tool.setuptools_scm]
-version_file = "geoutils/_version.py"
-fallback_version = "0.0.1"
 # Use no-local-version by default for CI builds
 local_scheme = "no-local-version"
 
