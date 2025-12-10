@@ -4,9 +4,9 @@
 geopandas>=0.12.0
 matplotlib==3.*
 pyproj==3.*
-rasterio>=1.3,<2
-pandas>=1,<3
-numpy>=1,<3
+rasterio>=1.3,
+pandas>=1,
+numpy>=1,
 scipy==1.*
 tqdm
 xarray>2023
