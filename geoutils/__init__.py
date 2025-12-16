@@ -29,3 +29,5 @@ from geoutils.pointcloud import PointCloud  # noqa isort:skip
 
 # To-be-deprecated
 from geoutils.raster import Mask  # noqa isort:skip
+
+__version__ = 0.0.3.dev0
